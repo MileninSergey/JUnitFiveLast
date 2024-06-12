@@ -18,6 +18,7 @@ public class App {
             int id;
             String login;
             String password;
+
             User[] users = new User[3];
 
             for (int i = 0; i < users.length; i++) {
